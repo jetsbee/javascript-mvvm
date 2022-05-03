@@ -1,7 +1,8 @@
 {
   "private": true,
   "scripts": {
-    "start": "servez src"
+    "start": "servez src",
+    "start-wa": "servez src_without_architecture"
   },
   "dependencies": {
     "servez": "^1.14.1"

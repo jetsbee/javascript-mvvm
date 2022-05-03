@@ -1,0 +1,12 @@
+{
+    "movies": [
+        {
+            "title": "The Batman",
+            "release_year": 2022
+        },
+        {
+            "title": "Spider-Man: No Way Home",
+            "release_year": 2021
+        }
+    ]
+}
